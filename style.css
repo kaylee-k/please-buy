@@ -24,16 +24,28 @@
 }
 body {
   height: 100vh;
-  background: rgb(245, 241, 241);
-  background: linear-gradient(
-    180deg,
-    rgba(245, 241, 241, 1) 0%,
-    rgba(238, 207, 208, 1) 100%
-  );
+  background-image: url('./img/background.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.content-wrapper {
   display: flex;
   flex-direction: column;
-  justify-content: center;
   align-items: center;
+  border: 3px solid rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 16px;
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.3);
+  background-color: rgba(255, 255, 255, 0.491);
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 80%;
+  text-align: center;
 }
 
 img {
@@ -65,6 +77,10 @@ img {
   transform: scale(1.1);
 }
 
+.imgBtn_apple {
+  width: var(--size-button);
+  height: 47px;
+}
 .buttons {
   display: flex;
   align-items: center;
@@ -92,11 +108,15 @@ img {
 }
 
 .items {
-  width: 60%;
-  height: 60%;
+  background-color: var(--color-white);
+  display: flex;
+  align-items: center;
+  margin-bottom: var(--base-space);
+  width: 80%;
   list-style: none;
   padding-left: 0;
   overflow-y: scroll;
+  border-radius: 10px;
 }
 
 .item {
@@ -104,6 +124,7 @@ img {
   display: flex;
   align-items: center;
   padding: var(--base-space);
+  margin-top: var(--base-space);
   margin-bottom: var(--base-space);
 }
 
