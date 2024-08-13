@@ -5,140 +5,140 @@
       "devices": "phone",
       "capacity": "128GB",
       "color": "silver",
-      "image": "../img/silverPhone.png"
+      "image": "/img/silverPhone.png"
     },
     {
       "brand": "samsung",
       "devices": "laptop",
       "capacity": "64GB",
       "color": "darkBlue",
-      "image": "../img/blueLaptop.png"
+      "image": "/img/blueLaptop.png"
     },
     {
       "brand": "xiaomi",
       "devices": "tablet",
       "capacity": "256GB",
       "color": "black",
-      "image": "../img/blackTablet.png"
+      "image": "/img/blackTablet.png"
     },
     {
       "brand": "apple",
       "devices": "tablet",
       "capacity": "64GB",
       "color": "darkBlue",
-      "image": "../img/blueTablet.png"
+      "image": "/img/blueTablet.png"
     },
     {
       "brand": "samsung",
       "devices": "phone",
       "capacity": "256GB",
       "color": "silver",
-      "image": "../img/silverPhone.png"
+      "image": "/img/silverPhone.png"
     },
     {
       "brand": "xiaomi",
       "devices": "laptop",
       "capacity": "128GB",
       "color": "black",
-      "image": "../img/blackLaptop.png"
+      "image": "/img/blackLaptop.png"
     },
     {
       "brand": "apple",
       "devices": "laptop",
       "capacity": "256GB",
       "color": "silver",
-      "image": "../img/silverLaptop.png"
+      "image": "/img/silverLaptop.png"
     },
     {
       "brand": "samsung",
       "devices": "tablet",
       "capacity": "128GB",
       "color": "darkBlue",
-      "image": "../img/blueTablet.png"
+      "image": "/img/blueTablet.png"
     },
     {
       "brand": "xiaomi",
       "devices": "phone",
       "capacity": "64GB",
       "color": "black",
-      "image": "../img/blackPhone.jpg"
+      "image": "/img/blackPhone.jpg"
     },
     {
       "brand": "apple",
       "devices": "tablet",
       "capacity": "128GB",
       "color": "darkBlue",
-      "image": "../img/blueTablet.png"
+      "image": "/img/blueTablet.png"
     },
     {
       "brand": "samsung",
       "devices": "laptop",
       "capacity": "64GB",
       "color": "silver",
-      "image": "../img/silverLaptop.png"
+      "image": "/img/silverLaptop.png"
     },
     {
       "brand": "xiaomi",
       "devices": "tablet",
       "capacity": "128GB",
       "color": "silver",
-      "image": "../img/silverTablet.png"
+      "image": "/img/silverTablet.png"
     },
     {
       "brand": "apple",
       "devices": "phone",
       "capacity": "256GB",
       "color": "black",
-      "image": "../img/blackPhone.jpg"
+      "image": "/img/blackPhone.jpg"
     },
     {
       "brand": "samsung",
       "devices": "phone",
       "capacity": "64GB",
       "color": "darkBlue",
-      "image": "../img/bluePhone.png"
+      "image": "/img/bluePhone.png"
     },
     {
       "brand": "xiaomi",
       "devices": "laptop",
       "capacity": "256GB",
       "color": "silver",
-      "image": "../img/silverLaptop.png"
+      "image": "/img/silverLaptop.png"
     },
     {
       "brand": "apple",
       "devices": "laptop",
       "capacity": "64GB",
       "color": "black",
-      "image": "../img/blackLaptop.png"
+      "image": "/img/blackLaptop.png"
     },
     {
       "brand": "samsung",
       "devices": "tablet",
       "capacity": "256GB",
       "color": "black",
-      "image": "../img/blackTablet.png"
+      "image": "/img/blackTablet.png"
     },
     {
       "brand": "xiaomi",
       "devices": "phone",
       "capacity": "128GB",
       "color": "silver",
-      "image": "../img/silverPhone.png"
+      "image": "/img/silverPhone.png"
     },
     {
       "brand": "apple",
       "devices": "tablet",
       "capacity": "64GB",
       "color": "silver",
-      "image": "../img/silverTablet.png"
+      "image": "/img/silverTablet.png"
     },
     {
       "brand": "samsung",
       "devices": "laptop",
       "capacity": "128GB",
       "color": "darkBlue",
-      "image": "../img/blueLaptop.png"
+      "image": "/img/blueLaptop.png"
     }
   ]
 }
