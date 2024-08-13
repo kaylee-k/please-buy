@@ -1,5 +1,4 @@
 :root {
-  /* color */
   --color-black: #000000;
   --color-silver: #c0c0c0;
   --color-dark-blue: #1a374e;
@@ -7,13 +6,11 @@
   --color-pink: #fd7f84;
   --color-light-grey: #dfdfdf;
   --color-white: #ffffff;
-  /* size */
   --size-button: 60px;
   --size-border: 4px;
   --font-size: 18px;
   --base-space: 8px;
   --size-thumbnail: 50px;
-  /* animation */
   --animation-duration: 300ms;
 }
 
@@ -130,10 +127,40 @@ img {
 }
 
 .item__thumbnail {
-  width: var(--size-thumbnail);
   width: 40px;
   height: 40px;
   margin-left: var(--base-space);
   margin-right: 10px !important;
   font-size: var(--font-size);
+}
+
+@media (max-width: 687px) {
+  :root {
+    --size-button: 30px;
+    --font-size: 10px;
+    --base-space: 4px;
+    --size-thumbnail: 20px;
+  }
+
+  .logo {
+    width: 80px;
+    height: 60px;
+  }
+
+  .btn {
+    margin-right: var(--base-space);
+    width: 55px;
+    height: 40px;
+    font-size: 11px;
+  }
+
+  img {
+    width: 50px;
+    height: 45px;
+  }
+
+  .item__thumbnail {
+    width: var(--size-thumbnail);
+    height: var(--size-thumbnail);
+  }
 }

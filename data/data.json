@@ -5,140 +5,140 @@
       "devices": "phone",
       "capacity": "128GB",
       "color": "silver",
-      "image": "img/silverPhone.png"
+      "image": "img/silverPhoneApple.png"
     },
     {
       "brand": "samsung",
       "devices": "laptop",
-      "capacity": "64GB",
+      "capacity": "512GB",
       "color": "darkBlue",
-      "image": "img/blueLaptop.png"
+      "image": "img/blueLaptopSamsung.png"
     },
     {
       "brand": "xiaomi",
       "devices": "tablet",
       "capacity": "256GB",
       "color": "black",
-      "image": "img/blackTablet.png"
+      "image": "img/blackTabletXiaomi.png"
     },
     {
       "brand": "apple",
       "devices": "tablet",
-      "capacity": "64GB",
+      "capacity": "256GB",
       "color": "darkBlue",
-      "image": "img/blueTablet.png"
+      "image": "img/blueTabletApple.png"
     },
     {
       "brand": "samsung",
       "devices": "phone",
       "capacity": "256GB",
       "color": "silver",
-      "image": "img/silverPhone.png"
+      "image": "img/silverPhoneSamSung.png"
     },
     {
       "brand": "xiaomi",
       "devices": "laptop",
-      "capacity": "128GB",
+      "capacity": "512GB",
       "color": "black",
-      "image": "img/blackLaptop.png"
+      "image": "img/blackLaptopXiaomi.png"
     },
     {
       "brand": "apple",
       "devices": "laptop",
       "capacity": "256GB",
       "color": "silver",
-      "image": "img/silverLaptop.png"
+      "image": "img/silverLaptopApple.png"
     },
     {
       "brand": "samsung",
       "devices": "tablet",
       "capacity": "128GB",
       "color": "darkBlue",
-      "image": "img/blueTablet.png"
+      "image": "img/blueTabletSamsung.png"
     },
     {
       "brand": "xiaomi",
       "devices": "phone",
-      "capacity": "64GB",
+      "capacity": "256GB",
       "color": "black",
-      "image": "img/blackPhone.jpg"
+      "image": "img/blackPhoneXiaomi.png"
     },
     {
       "brand": "apple",
       "devices": "tablet",
       "capacity": "128GB",
       "color": "darkBlue",
-      "image": "img/blueTablet.png"
+      "image": "img/blueTabletApple.png"
     },
     {
       "brand": "samsung",
       "devices": "laptop",
-      "capacity": "64GB",
+      "capacity": "512GB",
       "color": "silver",
-      "image": "img/silverLaptop.png"
+      "image": "img/silverLaptopSamSung.png"
     },
     {
       "brand": "xiaomi",
       "devices": "tablet",
       "capacity": "128GB",
       "color": "silver",
-      "image": "img/silverTablet.png"
+      "image": "img/silverTabletXiaomi.png"
     },
     {
       "brand": "apple",
       "devices": "phone",
       "capacity": "256GB",
       "color": "black",
-      "image": "img/blackPhone.jpg"
+      "image": "img/blackPhoneApple.png"
     },
     {
       "brand": "samsung",
       "devices": "phone",
-      "capacity": "64GB",
+      "capacity": "128GB",
       "color": "darkBlue",
-      "image": "img/bluePhone.png"
+      "image": "img/bluePhoneSamsung.png"
     },
     {
       "brand": "xiaomi",
       "devices": "laptop",
       "capacity": "256GB",
       "color": "silver",
-      "image": "img/silverLaptop.png"
+      "image": "img/silverLaptopXiaomi.png"
     },
     {
       "brand": "apple",
       "devices": "laptop",
-      "capacity": "64GB",
+      "capacity": "128GB",
       "color": "black",
-      "image": "img/blackLaptop.png"
+      "image": "img/blackLaptopApple.png"
     },
     {
       "brand": "samsung",
       "devices": "tablet",
       "capacity": "256GB",
       "color": "black",
-      "image": "img/blackTablet.png"
+      "image": "img/blackTabletSamsung.png"
     },
     {
       "brand": "xiaomi",
       "devices": "phone",
       "capacity": "128GB",
       "color": "silver",
-      "image": "img/silverPhone.png"
+      "image": "img/silverPhoneXiaomi.png"
     },
     {
       "brand": "apple",
       "devices": "tablet",
-      "capacity": "64GB",
+      "capacity": "512GB",
       "color": "silver",
-      "image": "img/silverTablet.png"
+      "image": "img/silverTabletApple.png"
     },
     {
       "brand": "samsung",
       "devices": "laptop",
-      "capacity": "128GB",
+      "capacity": "256GB",
       "color": "darkBlue",
-      "image": "img/blueLaptop.png"
+      "image": "img/blueLaptopSamsung.png"
     }
   ]
 }
