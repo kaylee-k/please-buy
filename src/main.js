@@ -23,6 +23,6 @@ function createHTMLString(item) {
 loadItems()
   .then((items) => {
     displayItems(items);
-    setEventListeners(items);
+    // setEventListeners(items);
   })
   .catch(console.log);

@@ -78,11 +78,6 @@ img {
   transform: scale(1.1);
 }
 
-.imgBtn_apple {
-  width: var(--size-button);
-  height: 47px;
-}
-
 .buttons {
   display: flex;
   align-items: center;
