@@ -9,7 +9,6 @@ Welcome to Please Buy! We are an e-commerce application specializing in the sale
 - Dynamic Product Display: Products are fetched from a JSON file and displayed dynamically. The list updates in real-time based on the user's selected filters.
 - Category Filtering: Users can filter products by brand (Apple, Samsung, Xiaomi) and color (Silver, Dark Blue, Black) to narrow down the selection.
 - Responsive Design: The application layout is fully responsive, adapting to various web browser window sizes. Whether the window is large or small, the design remains consistent and user-friendly.
-- Filter Todos: Filter tasks by all, active, or completed status.
 - Optimized Performance: The application efficiently handles the filtering and display of products, providing a smooth user experience.
 
 ## Technology Stack
@@ -25,10 +24,6 @@ Handles the dynamic fetching, filtering, and displaying of products. Event liste
 ### 4. JSON
 Product data is stored in a JSON file, which is fetched and processed by the JavaScript code to dynamically generate the product list.
 
-## Context
-
-### DarkModeContext
-The `DarkModeContext` provides the current theme (light or dark) and a function to toggle between themes. This context is used by the Header component to toggle the application theme.
 
 ## How It Works
 ### 1. Loading Products
@@ -44,10 +39,10 @@ Users can filter products by clicking on brand icons or color buttons. The produ
 Clicking the Please Buy logo resets the filters, displaying the full list of products again.
 
 ## Contributing
-Contributions to the `Please Buy project` are welcome. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
+Contributions to the `Please Buy` project are welcome. If you'd like to contribute, please fork the repository, make your changes, and submit a pull request.
 
 ## Live Demo
-Click here to view the live project deployed on Netlify. ➡️  https://kaylee-k.github.io/please-buy/
+Click here to view the live project deployed on GitHub Pages. ➡️  https://kaylee-k.github.io/please-buy/
 
 
 
